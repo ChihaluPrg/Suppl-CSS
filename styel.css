@@ -1,9 +1,0 @@
-@charset "utf-8";
-
-h1::before {
-    content:"●";
-}
-
-input[type="email"] {
-    color: rgb(255, 102, 102);
-}
